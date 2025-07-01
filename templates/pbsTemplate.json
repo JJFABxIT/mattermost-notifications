@@ -1,0 +1,3 @@
+{
+  "text": ":floppy_disk: ***PBS Alert** from pbslt.brain* \n### Title: {{ title }} \nSeverity: **{{ severity }}** \nTime: {{ timestamp }} unix seconds \nJob Type: {{ fields.type }} \nJob: {{ fields.job-id }} \n{{message}}"
+}

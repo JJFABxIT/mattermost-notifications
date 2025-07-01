@@ -1,0 +1,3 @@
+{
+  "text": ":gear: ***Proxmox Alert** from '{{host}}'* \n### Title: {{ title }} \nSeverity: **{{ severity }}** \nTime: {{ timestamp }} unix seconds \nJob Type: {{ fields.type }} \nJob: {{ fields.job-id }} \n{{message}}"
+}
