@@ -37,7 +37,7 @@ Under `Headers:` add a new header. The key should be `Content-Type` and set the 
 
 2. Add the below template to the `Body:` section:
 
-```json
+```bash
 {
   "text": ":floppy_disk: **PBS Alert** from {{ host }}
 \n ### Title: {{ title }}
