@@ -1,3 +1,7 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+![Mattermost](https://img.shields.io/badge/messaging-Mattermost-blue)
+![Built%20For](https://img.shields.io/badge/built%20for-Proxmox%20%7C%20PBS-lightgrey)
+
 # 🛎️ Mattermost Homelab Alerting System
 
 A fully self-hosted, bot-driven alerting setup that unifies infrastructure notifications from:
